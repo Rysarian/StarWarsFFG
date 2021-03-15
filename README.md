@@ -36,6 +36,7 @@ See our current production goals and progress [here](https://github.com/StarWars
 
 Release `CHANGELOG` can be found [here](https://github.com/StarWarsFoundryVTT/StarWarsFFG/releases)
 
+- 15/03/2021 - Cstadther - Fix 841 - Fixed issed where imported compendium items with qualities, were not allowing quality windows to close.
 - 15/03/2021 - Cstadther - Fix 838 - Fixed issue where "block" values were incorrectly specifying data type.
 - 15/03/2021 - Cstadther - Fix 839 - Fixed issue where configuration tab was not visible from v1 item modifer and item attachment sheet.
 - 15/03/2021 - Cstadther - Fix 836 - Fixed issue with Skill Add Threat modifier dropdown not populating skill list.

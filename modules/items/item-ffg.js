@@ -29,6 +29,7 @@ export class ItemFFG extends ItemBaseFFG {
     } else {
       itemData.flags.isCompendium = false;
       itemData.flags.ffgIsOwned = false;
+      delete itemData.flags.ffgUuid;
       if (this.isOwned) {
         itemData.flags.ffgIsOwned = true;
         itemData.flags.ffgUuid = this.uuid;
