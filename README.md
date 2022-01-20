@@ -21,7 +21,7 @@ For more info and documentation including various "How-To" guides, please check 
 2. Go to the "Game Systems" Tab
 3. Click the "Install System" button
 4. Copy the Following link into the "Manifest URL" section:
-   https://raw.githubusercontent.com/StarWarsFoundryVTT/StarWarsFFG/master/system.json
+   https://raw.githubusercontent.com/StarWarsFoundryVTT/StarWarsFFG/v1.7/system.json
 5. Click Install, after a few seconds the system should be installed.
 
 # Getting Started
